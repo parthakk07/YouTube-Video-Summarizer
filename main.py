@@ -23,7 +23,7 @@ def get_transcript(video_id):
 
 
 def summarize_transcript(transcript):
-    client = genai.Client(api_key="AIzaSyAsWNw6hQ4iptE8SS72MXlDmZMMUbrVqF8")
+    client = genai.Client(api_key="GEMINI API KEY")
     response = client.models.generate_content(
         model="gemini-3-flash-preview",
         contents=f"Summarize the following YouTube video transcript in a clear, concise way:\n\n{transcript}",

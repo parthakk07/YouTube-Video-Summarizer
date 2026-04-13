@@ -1,16 +1,42 @@
-# Python cache files
+#  Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+#  Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Virtual environment (optional but recommended)
-.venv/
-venv/
-
-# Jupyter Notebook checkpoints
+#  Jupyter Notebook
 .ipynb_checkpoints/
 
-# OS files
+# ⚙️ Environment variables
+.env
+.env.*
+
+#  Logs & temp files
+*.log
+*.tmp
+
+#  OS files
 .DS_Store
 Thumbs.db
+
+#  Testing / coverage
+.coverage
+htmlcov/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+config.json
+secrets.json
