@@ -5,8 +5,8 @@ __pycache__/
 *.pyd
 
 # Virtual environment (optional but recommended)
+.venv/
 venv/
-.env/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
