@@ -1,0 +1,34 @@
+This video highlights 19 unique, "non-generic" coding projects designed to help developers stand out to recruiters, escape "tutorial hell," and build practical skills.
+
+The projects are categorized by their primary focus below:
+
+### 1. AI & Large Language Models (LLMs)
+*   **"Cooked":** A website that uses Spotify or gaming APIs and Google Gemini to "roast" users based on their data.
+*   **AI Meeting Assistant:** A tool that uses voice-to-text and a local Small Language Model (SLM) like Llama to whisper professional corporate responses to you during meetings.
+*   **AI Hunger Games:** A simulation where eight AI personalities answer questions and vote on the best response; the loser is eliminated and replaced.
+*   **Book Shores:** An app that takes a PDF and uses AI diffusion models to generate a corresponding image for every page.
+*   **Amazon Shopping Assistant:** A Chrome extension that scrapes complex Amazon review pages and provides AI-generated summaries of product quality.
+
+### 2. Data Science & Analytics
+*   **Personal Finance Dashboard:** Uses OCR to read bank statements and LLMs to categorize "janky" transaction data into clean visualizations (spending habits, anomaly detection).
+*   **Reddit Sentiment Stock Predictor:** Scrapes stock-related subreddits and uses AI to determine if the sentiment is positive or negative to predict market trends.
+*   **Behavioral Analytics Tracker:** A project that tracks cursor movements, clicks, and swipes to predict a user’s emotional state (boredom, anger, etc.).
+*   **Kaggle Data Visualizer:** Picking a niche dataset from Kaggle and using Streamlit to build a custom frontend for the insights.
+
+### 3. Systems & Low-Level Programming
+*   **Custom Shell:** Building a personal command-line interface with custom shortcuts for searching YouTube, launching apps, or opening LeetCode questions.
+*   **BitTorrent Client:** A networking project where you convert torrent files to JSON, communicate with trackers, and download file pieces.
+*   **Video Game Development:** Building a 2D or simulation game (like Slither.io) in your favorite language to learn complex logic and architecture.
+
+### 4. Web & Mobile Applications
+*   **Time Capsule:** A backend-heavy app that stores files/memories and uses Cron jobs and S3 buckets to email them to a list of people after a set duration.
+*   **Phone Locker:** An app that locks the user out of their phone for a set time to improve focus, featuring habit tracking and gamification.
+*   **Phantom Sword:** A personality quiz (like a Harry Potter Sorting Hat) for various franchises, teaching CRUD operations and decision trees.
+*   **Rapify:** A custom "Spotify Wrapped" style dashboard focused on high-end data visualization and UI/UX.
+*   **Discord Bot:** An NLP-powered bot for server management, automated tasks, or humor.
+*   **Wordle Clone:** A simple but polished game clone to practice frontend logic.
+
+### Key Takeaways for Your Portfolio:
+*   **Avoid "Zombie" Projects:** Move away from basic to-do lists and weather apps.
+*   **Focus on Integration:** The best projects combine APIs (Spotify, Reddit), AI (Gemini, Ollama), and clean Frontends (React, Streamlit).
+*   **Backend Mastery:** Projects like the "Time Capsule" are recommended because they demonstrate high-level skills like encryption, scheduling, and database management that "companies drool over."
